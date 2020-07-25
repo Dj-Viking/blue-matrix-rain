@@ -6,8 +6,5 @@
 
 ## Deployment Link
 
-https://dj-viking.github.io/matrix-rain/
+https://dj-viking.github.io/blue-matrix-rain/
 
-## Screenshot
-
-![page screenshot](./assets/images/page-screenshot.png);
